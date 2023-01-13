@@ -37,6 +37,18 @@
       <td><b>Fully frontend</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
+    <tr>
+      <td><a href="https://snip-snap-pro.netlify.app/" target="_blank"><b>SnipSnap (a pastebin app)<b></a></td>
+      <td><a href="https://github.com/maghfoor-a/pair-project-week1-frontend"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/maghfoor-a/pair-project-week1-backend"><b>Express Node.js</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
+      <td><a href="https://breed-battle.netlify.app/" target="_blank"><b>Breed Battle (dog voting)<b></a></td>
+      <td><a href="https://github.com/syndercres/dog-breeds-front-end"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/syndercres/dog-voting-back-end"><b>Express Node.js</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
   </tbody>
 </table>
 
