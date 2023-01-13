@@ -3,10 +3,9 @@
 👋 Hi, I’m Alessia  
 👀 I’m interested in starting my next challenge in the tech industry  
 💻 I’m currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/)  
-<hr>
 
-## 🏗️ Featured projects
 <hr>
+## 🏗️ Featured projects
 
 <table>
   <thead align="center">
@@ -52,27 +51,22 @@
   </tbody>
 </table>
 
-
-## 💻 GitHub Summary
 <hr>
+## 💻 GitHub Summary
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiashub&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
 
 ## 🖊️ Streak stats
 
-<hr>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alessiashub&theme=midnight-purple)
 
 ## 🧰 What I've been coding with
 
-<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiashub&layout=compact&theme=midnight-purple&card_width=500)
 
-
-## 🛠️ Languages and technologies I have used
 <hr>
+## 🛠️ Languages and technologies I have used
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -88,10 +82,9 @@
 
 
 
-
-## ✉️ Contact Me
 <hr>
+## ✉️ Contact Me
 
 ### 📫 Email: [borys.alessia@gmail.com](mailto:borys.alessia@gmail.com)
 ### LinkedIn: [here](https://www.linkedin.com/in/alessiaborys/)
-
+<hr>
