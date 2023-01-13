@@ -5,8 +5,9 @@
 💻 I’m currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/)  
 
 <hr>
-## 🏗️ Featured projects
 
+## 🏗️ Featured projects
+  
 <table>
   <thead align="center">
     <tr border: none;>
@@ -52,12 +53,15 @@
 </table>
 
 <hr>
+        
 ## 💻 GitHub Summary
 
+        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiashub&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
 
 ## 🖊️ Streak stats
 
+        
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alessiashub&theme=midnight-purple)
 
 ## 🧰 What I've been coding with
@@ -66,6 +70,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiashub&layout=compact&theme=midnight-purple&card_width=500)
 
 <hr>
+        
 ## 🛠️ Languages and technologies I have used
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -83,8 +88,10 @@
 
 
 <hr>
+        
 ## ✉️ Contact Me
 
-### 📫 Email: [borys.alessia@gmail.com](mailto:borys.alessia@gmail.com)
-### LinkedIn: [here](https://www.linkedin.com/in/alessiaborys/)
+#### 📫 Email: [borys.alessia@gmail.com](mailto:borys.alessia@gmail.com)
+#### LinkedIn: [here](https://www.linkedin.com/in/alessiaborys/)
+        
 <hr>
