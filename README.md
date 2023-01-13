@@ -5,7 +5,6 @@
 # Alessia || Full Stack Developer || Creator || Learner 
 🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
 <hr>
-As a full stack developer and creator, I am constantly seeking out new opportunities to learn and grow in the tech industry. With a few projects under my belt, I am confident in my ability to learn and adapt quickly, and am eager to continue growing and improving as a developer. My passion for technology and problem-solving drives me to stay up-to-date with the latest industry developments and seek out new challenges. I am excited to be a part of a team and contribute my skills and perspective to the success of a project.
 
 ## 🏗️ Featured projects
 <hr>
@@ -74,6 +73,7 @@ As a full stack developer and creator, I am constantly seeking out new opportuni
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
 
