@@ -1,9 +1,8 @@
+# Alessia || Full Stack Developer || Creator || Learner 
+### 🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
 👋 Hi, I’m Alessia  
 👀 I’m interested in starting my next challenge in the tech industry  
 💻 I’m currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/)  
-
-# Alessia || Full Stack Developer || Creator || Learner 
-### 🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
 <hr>
 
 ## 🏗️ Featured projects
