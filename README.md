@@ -3,7 +3,7 @@
 💻 I’m currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/)  
 
 # Alessia || Full Stack Developer || Creator || Learner 
-🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
+### 🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
 <hr>
 
 ## 🏗️ Featured projects
