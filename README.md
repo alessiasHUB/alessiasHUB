@@ -1,8 +1,7 @@
 # Alessia || Full Stack Developer || Creator || Learner 
 ### 🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
 👋 Hi, I’m Alessia  
-👀 I’m interested in starting my next challenge in the tech industry  
-💻 I’m currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/)  
+💻 I’m currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/) and a recent Bsc Chemical Engineering Graduate 👩🏻‍🎓 from the Royal Institute of Technology (KTH) & Imperial College London.
 
 <hr>
 
@@ -91,7 +90,7 @@
         
 ## ✉️ Contact Me
 
-#### 📫 Email: [borys.alessia@gmail.com](mailto:borys.alessia@gmail.com)
-#### LinkedIn: [here](https://www.linkedin.com/in/alessiaborys/)
+<a href="https://www.linkedin.com/in/alessiaborys/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+#### LinkedIn: [here]()
         
 <hr>
