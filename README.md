@@ -60,10 +60,6 @@
         
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiashub&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
 
-## 🖊️ Streak stats
-
-        
-![GitHub Streak](https://streak-stats.demolab.com/?user=alessiashub&theme=midnight-purple)
 
 ## 🧰 What I've been coding with
 
