@@ -6,7 +6,9 @@
 <hr>
 
 ## 🏗️ Featured projects
+
   
+(Fullstack apps deploy from Render so may need ~10 secs for server to wake up)
 <table>
   <thead align="center">
     <tr border: none;>
