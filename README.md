@@ -1,7 +1,9 @@
 # Alessia || Full Stack Developer || Creator || Learner 
 ### 🎨 Checkout my portfolio [here](https://alessiaborys.netlify.app/)
 👋 Hi, I’m Alessia, welcome to my GitHub profile! I am a junior developer with a passion for learning new technologies and developing creative solutions. I am constantly striving to improve my skills and take on challenging projects. 
+
 💻 Currently a Junior Software Full-stack Developer @[Academy Tech](https://academy.tech/)
+
 Feel free to take a look at my projects and let me know what you think. Thanks for visiting!
 
 <hr>
