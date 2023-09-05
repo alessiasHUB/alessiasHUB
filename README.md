@@ -22,6 +22,11 @@ Feel free to take a look at my projects and let me know what you think. Thanks f
   <tbody>
   <tbody align="center">
      <tr>
+      <td><a href="https://book-scraper.vercel.app/" target="_blank"><b>Book webscraper<b></a></td>
+      <td><a href="https://github.com/alessiasHUB/book-webscraper"><b>NextJS, TypeScript</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+     <tr>
       <td><a href="https://to-do-full-stack.netlify.app" target="_blank"><b>Todo List App<b></a></td>
       <td><a href="https://github.com/alessiasHUB/to-do-front"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/alessiasHUB/to-do-back"><b>Express Node.js</b></a></td>
@@ -71,6 +76,7 @@ Feel free to take a look at my projects and let me know what you think. Thanks f
         
 ## 🛠️ Languages and technologies I have used
 
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
