@@ -23,9 +23,9 @@ Feel free to take a look at my projects and let me know what you think. Thanks f
   <tbody align="center">
      <tr>
       <td><a href="https://book-scraper.vercel.app/" target="_blank"><b>Book webscraper<b></a></td>
-      <td><a href="https://github.com/alessiasHUB/book-webscraper"><b>NextJS, TypeScript</b></a>
+      <td><a href="https://github.com/alessiasHUB/book-webscraper"><b>NextJS, TypeScript</b></a></td>
       <td><b>Fully frontend</b></a></td>
-    </td>
+    
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
      <tr>
